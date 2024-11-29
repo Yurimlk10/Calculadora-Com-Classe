@@ -26,7 +26,7 @@ public class Main {
         // Criando um objeto da classe Calculadora com os valores e operador fornecidos
         Calculadora calculadora = new Calculadora(x, y, operador);
 
-//         Chamando o método calcular para realizar a operação e armazenando o resultado
+        // Chamando o método calcular para realizar a operação e armazenando o resultado
         double resultado = calculadora.calcular();
 
         // Verificando se o operador foi válido e exibindo o resultado
