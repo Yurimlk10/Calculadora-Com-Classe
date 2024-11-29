@@ -1,2 +1,2 @@
 # Calculadora-Com-Classe
-Projeto de calculadora simples para praticar o que aprendi sobre Classes e Métodos
+Este é um projeto simples de uma calculadora feita em Java, criado para praticar os conceitos que aprendi sobre classes e métodos. Embora o projeto seja básico, com suporte a operações simples como adição, subtração, multiplicação, divisão e exponenciação, sei que há muitas melhorias e funcionalidades adicionais que podem ser implementadas no futuro. A intenção principal foi consolidar meu entendimento sobre a estrutura de uma classe e a utilização de métodos em Java.
